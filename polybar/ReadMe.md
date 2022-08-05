@@ -5,3 +5,7 @@ to get this follow the install instructions [here](https://github.com/adi1090x/p
 then put this in your i3 conf: exec --no-startup-id ~/.config/polybar/launch.sh --shapes
 
 inside ~/.config/polybar/shapes replace all the files in there with [these](https://github.com/Dev7z/I3-Blue-rice/tree/main/polybar) except this readme of course 
+
+
+
+im too lazy to fork lol
