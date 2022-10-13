@@ -8,3 +8,7 @@ Preview: https://i.redd.it/jy9xklo8s6g91.png
 compositor: picom-git (on aur)
 
 wallpaper: https://wallpapercave.com/w/wp3544725
+
+
+
+dont forget to replace all the "/home/dev7z" with "/home/<your username>"
